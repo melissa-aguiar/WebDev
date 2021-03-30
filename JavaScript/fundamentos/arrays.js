@@ -12,7 +12,7 @@ valores.push({id: 3}, false, null, 'teste') // adicionou termos ao final
 console.log(valores)
 
 console.log(valores.pop()) // retirou o ultimo termo
-delete valores[0] // deletou o valor de indce zero
+delete valores[0] // deletou o valor de indice zero
 console.log(valores)
 
 console.log(typeof valores) // em js array é objeto

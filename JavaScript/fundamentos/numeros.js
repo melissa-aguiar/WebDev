@@ -1,5 +1,5 @@
 const peso1 = 1.1
-const peso2 = Number('2.0') // number serve pra inteiro e ponto flutuante, vai achar que 2.0 é int 2
+const peso2 = Number('2.0') // Number serve pra inteiro e ponto flutuante, vai achar que 2.0 é int 2
 
 console.log(peso1, peso2)
 console.log(Number.isInteger(peso1))
